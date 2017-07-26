@@ -15,6 +15,8 @@ Done.
 
 Current Version is 0.3.6
 
+## Cite
+J.M.Holstein, Taxon Specific Conversion Factors for Mass, Energy, and Composition, R-package, (2016), GitHub repository, https://github.com/janhoo/benthos
 ## Usage
 issue `library(benthos)`,  <br />
 use the package documentation, e.g.,  <br />
