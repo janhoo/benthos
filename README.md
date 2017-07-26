@@ -1,6 +1,8 @@
 # benthos
 ## Taxon Specific Conversion Factors for Mass, Energy, and Composition 
 
+[![DOI](https://zenodo.org/badge/98420240.svg)](https://zenodo.org/badge/latestdoi/98420240)
+
 ----
 
 ## Installation
