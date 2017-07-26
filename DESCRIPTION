@@ -1,0 +1,9 @@
+Package: benthos
+Type: Package
+Title: ecosystem functions of aquatic benthic invertebrates 
+Version: 0.3.6
+Date: 2012-10-08
+Author: Jan M Holstein
+Maintainer: Jan M Holstein<jan.holstein@awi.de>
+Description:  ecosystem functions of (mostly) aquatic benthic invertebrates
+License: GPL (>= 2)

@@ -1,0 +1,3 @@
+export(afdm2afdms,afdm2dm,afdm2wm,c2afdm,c2dm,c2n,c2p,carbohydr2dm,dm2dms,dm2wm,j2afdm,j2c,j2dm,j2dms,j2n,j2wm,j2wms,lipid2dm,n2afdm,n2dm,n2p,p2afdm,p2dm,prot2dm,wm2wms)
+
+
